@@ -1,0 +1,852 @@
+{
+  "$schema": "./pages.manifest.schema.json",
+  "site": {
+    "name": "EnRoute Growth Platform",
+    "type": "website",
+    "domain": "https://enroutegrowthplatform.io",
+    "language": "en",
+    "defaultSeo": {
+      "titleTemplate": "%s | EnRoute Growth Platform",
+      "ogImage": "/og-default.png"
+    }
+  },
+  "pages": [
+    {
+      "id": "home",
+      "name": "Home",
+      "slug": "",
+      "isHome": true,
+      "seo": {
+        "title": "EnRoute Growth Platform | Turn Visibility Into Revenue",
+        "description": "Stop losing revenue to disconnected marketing tools. EnRoute unifies local SEO, reputation, lead capture, CRM & automation for multi-location businesses. Book a free strategy call.",
+        "keywords": [
+          "unified growth platform",
+          "local SEO for multi-location businesses",
+          "reputation management software",
+          "B2B lead capture automation",
+          "franchise marketing platform"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": false,
+        "structuredDataType": "WebSite",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "Hero",
+        "HomePain",
+        "HomePlatform",
+        "HomeSocialProof",
+        "HomeCTA",
+        "Footer"
+      ],
+      "inNavigation": true
+    },
+    {
+      "id": "platform",
+      "name": "Platform",
+      "slug": "platform",
+      "isHome": false,
+      "seo": {
+        "title": "EnRoute Platform | Unified Growth Stack for Local Business",
+        "description": "One platform for local SEO, reputation, lead capture, CRM, and marketing automation. 3.2x leads, 89% top-3 Google Maps rankings. Book a free strategy call.",
+        "keywords": [
+          "unified growth platform",
+          "local SEO and CRM platform",
+          "B2B marketing automation software",
+          "multi-location reputation management",
+          "revenue intelligence platform"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": false,
+        "structuredDataType": "SoftwareApplication",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "PlatformHero",
+        "PlatformPain",
+        "PlatformOverview",
+        "PlatformSocialProof",
+        "PlatformCTA",
+        "Footer"
+      ],
+      "inNavigation": true
+    },
+    {
+      "id": "mapboost",
+      "name": "MapBoost",
+      "slug": "mapboost",
+      "isHome": false,
+      "seo": {
+        "title": "MapBoost - Google Maps Ranking & Local SEO | EnRoute",
+        "description": "Rank top 3 on Google Maps in 90 days. MapBoost unifies local SEO, citations, reputation, and revenue intelligence to turn visibility into measurable growth.",
+        "keywords": [
+          "Google Maps ranking",
+          "local SEO software",
+          "local visibility platform",
+          "citation management",
+          "MapBoost local SEO"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": false,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "MapBoostHero",
+        "MapBoostProblem",
+        "MapBoostPlatform",
+        "MapBoostSocialProof",
+        "MapBoostCTA",
+        "Footer"
+      ],
+      "inNavigation": true
+    },
+    {
+      "id": "pricing",
+      "name": "Pricing",
+      "slug": "pricing",
+      "isHome": false,
+      "seo": {
+        "title": "Pricing - EnRoute Growth Platform | No Contracts",
+        "description": "Transparent pricing for the all-in-one local SEO, reputation, AI lead capture, CRM & automation platform. No contracts. Book a free strategy call today.",
+        "keywords": [
+          "growth platform pricing",
+          "local SEO software pricing",
+          "multi-location marketing platform",
+          "no contract marketing software",
+          "marketing automation pricing"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": false,
+        "structuredDataType": "Product",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "PricingHero",
+        "PricingPains",
+        "PricingPlatformOverview",
+        "PricingPlans",
+        "PricingSocialProof",
+        "Footer"
+      ],
+      "inNavigation": true
+    },
+    {
+      "id": "results",
+      "name": "Results",
+      "slug": "results",
+      "isHome": false,
+      "seo": {
+        "title": "Results & Case Studies - EnRoute Growth Platform",
+        "description": "See how EnRoute delivers 3.2x more leads, 89% top-3 Google Maps rankings, and 40% faster response times for multi-location businesses. Real results, no contracts.",
+        "keywords": [
+          "multi-location business results",
+          "local SEO case studies",
+          "lead generation ROI",
+          "Google Maps ranking proof",
+          "EnRoute Growth Platform"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": false,
+        "structuredDataType": "Organization",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "ResultsHero",
+        "ResultsPain",
+        "ResultsPlatformGrid",
+        "ResultsProof",
+        "ResultsCTA",
+        "Footer"
+      ],
+      "inNavigation": true
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "slug": "contact",
+      "isHome": false,
+      "seo": {
+        "title": "Contact Us | EnRoute Growth Platform",
+        "description": "Book a free strategy call or reach our McLean, VA team. EnRoute helps multi-location businesses turn visibility into revenue with one unified growth platform.",
+        "keywords": [
+          "book a strategy call",
+          "contact EnRoute Growth Platform",
+          "multi-location business growth demo",
+          "local SEO platform McLean VA",
+          "marketing automation consultation"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": false,
+        "structuredDataType": "ContactPage",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "ContactHero",
+        "ContactForm",
+        "ContactSocialProof",
+        "ContactCTA",
+        "Footer"
+      ],
+      "inNavigation": true
+    },
+    {
+      "id": "strategy-consulting",
+      "name": "Strategy & Consulting",
+      "slug": "strategy-consulting",
+      "isHome": false,
+      "seo": {
+        "title": "Strategy & Consulting for Connected Growth | EnRoute Growth Platform",
+        "description": "EnRoute connects visibility to execution across NA, EU, APAC, and MEA. Two integrated practice areas \u2014 EGP AI Search Visibility and EGP Authority \u2014 within one unified growth framework.",
+        "keywords": [
+          "strategy consulting",
+          "EGP AI Search Visibility",
+          "EGP Authority",
+          "connected growth",
+          "multi-market visibility"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "StrategyConsultingHero",
+        "StrategyConsultingSystem",
+        "StrategyConsultingPracticeAreas",
+        "StrategyConsultingOutcomes",
+        "StrategyConsultingEngagement",
+        "StrategyConsultingFAQ",
+        "StrategyConsultingCTA",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "ai-search-visibility",
+      "name": "EGP AI Search Visibility",
+      "slug": "ai-search-visibility",
+      "isHome": false,
+      "seo": {
+        "title": "EGP AI Search Visibility | EnRoute Growth Platform",
+        "description": "Make your business eligible to rank, be cited, and be chosen across search, maps, and AI answers. AI SEO, AEO, GEO, and Local SEO within the EnRoute system.",
+        "keywords": [
+          "AI search visibility",
+          "AI SEO",
+          "AEO answer engine optimization",
+          "GEO generative engine optimization",
+          "local SEO"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AiSearchVisibilityPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "ai-search-visibility/ai-seo",
+      "name": "AI SEO",
+      "slug": "ai-search-visibility/ai-seo",
+      "isHome": false,
+      "seo": {
+        "title": "AI SEO \u2013 Technical + On-Page Performance | EnRoute",
+        "description": "Crawl structure, site architecture, page-level optimization, schema markup, and Core Web Vitals alignment to improve indexability and relevance signals.",
+        "keywords": [
+          "AI SEO",
+          "technical SEO",
+          "on-page optimization",
+          "schema markup",
+          "Core Web Vitals"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AiSearchVisibilityAiSeoPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "ai-search-visibility/aeo",
+      "name": "AEO",
+      "slug": "ai-search-visibility/aeo",
+      "isHome": false,
+      "seo": {
+        "title": "AEO \u2013 Be Ready for AI Answers | EnRoute",
+        "description": "FAQ content architecture, featured snippet targeting, structured answer formatting, and position-zero optimization to increase eligibility for AI answer surfaces.",
+        "keywords": [
+          "AEO",
+          "answer engine optimization",
+          "featured snippets",
+          "AI answers",
+          "position zero"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AiSearchVisibilityAeoPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "ai-search-visibility/geo",
+      "name": "GEO",
+      "slug": "ai-search-visibility/geo",
+      "isHome": false,
+      "seo": {
+        "title": "GEO \u2013 Entity & Semantic Clarity for AI Surfaces | EnRoute",
+        "description": "Entity identification, semantic topic clustering, knowledge panel optimization, and brand entity strengthening for improved AI citation eligibility.",
+        "keywords": [
+          "GEO",
+          "generative engine optimization",
+          "entity optimization",
+          "semantic SEO",
+          "knowledge panel"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AiSearchVisibilityGeoPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "ai-search-visibility/local-seo",
+      "name": "Local SEO",
+      "slug": "ai-search-visibility/local-seo",
+      "isHome": false,
+      "seo": {
+        "title": "Local SEO \u2013 Maps, Proximity & Local Trust | EnRoute",
+        "description": "Google Business Profile optimization, local citation consistency, proximity signal building, and local schema implementation for stronger map pack presence.",
+        "keywords": [
+          "local SEO",
+          "Google Business Profile",
+          "map pack",
+          "local citations",
+          "proximity signals"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AiSearchVisibilityLocalSeoPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "authority",
+      "name": "EGP Authority",
+      "slug": "authority",
+      "isHome": false,
+      "seo": {
+        "title": "EGP Authority \u2013 Build Brand-Safe Authority Signals | EnRoute",
+        "description": "Digital PR, press releases, link building, guest posting, and reputation management to support visibility, trust, and conversion within the EnRoute system.",
+        "keywords": [
+          "EGP Authority",
+          "digital PR",
+          "link building",
+          "reputation management",
+          "brand authority"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AuthorityPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "authority/digital-pr",
+      "name": "Digital PR",
+      "slug": "authority/digital-pr",
+      "isHome": false,
+      "seo": {
+        "title": "Digital PR \u2013 Earn Coverage That Builds Authority | EnRoute",
+        "description": "Media outreach, journalist relationship building, story development, and earned coverage tracking to build brand-safe authority across key markets.",
+        "keywords": [
+          "digital PR",
+          "media outreach",
+          "earned coverage",
+          "brand authority",
+          "PR strategy"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AuthorityDigitalPrPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "authority/press-releases",
+      "name": "Press Releases",
+      "slug": "authority/press-releases",
+      "isHome": false,
+      "seo": {
+        "title": "Press Releases \u2013 Announcements That Get Noticed | EnRoute",
+        "description": "Professional press release writing, editing, distribution across trusted networks, and syndication strategy for brand-safe announcement coverage.",
+        "keywords": [
+          "press releases",
+          "PR distribution",
+          "press release writing",
+          "news syndication",
+          "announcement strategy"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AuthorityPressReleasesPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "authority/link-building",
+      "name": "Link Building",
+      "slug": "authority/link-building",
+      "isHome": false,
+      "seo": {
+        "title": "Link Building \u2013 Quality-First, Brand-Safe Authority | EnRoute",
+        "description": "Backlink gap analysis, contextual link prospecting, brand-safe outreach, editorial placement, and anchor diversity strategy for sustainable authority.",
+        "keywords": [
+          "link building",
+          "backlink acquisition",
+          "editorial links",
+          "backlink gap analysis",
+          "anchor strategy"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AuthorityLinkBuildingPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "authority/guest-posting",
+      "name": "Guest Posting",
+      "slug": "authority/guest-posting",
+      "isHome": false,
+      "seo": {
+        "title": "Guest Posting \u2013 Editorial Reach on Relevant Publications | EnRoute",
+        "description": "Publication research and vetting, topic ideation, article writing, editorial submission, and placement with contextual backlinks for authority building.",
+        "keywords": [
+          "guest posting",
+          "editorial placement",
+          "publication outreach",
+          "guest articles",
+          "contextual backlinks"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AuthorityGuestPostingPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    },
+    {
+      "id": "authority/reputation",
+      "name": "Reputation",
+      "slug": "authority/reputation",
+      "isHome": false,
+      "seo": {
+        "title": "Reputation \u2013 Trust Signals That Support Discovery & Conversion | EnRoute",
+        "description": "Review audit and strategy, review response frameworks, sentiment monitoring, and trust signal recommendations to strengthen brand discovery and conversion.",
+        "keywords": [
+          "reputation management",
+          "review strategy",
+          "trust signals",
+          "sentiment monitoring",
+          "brand trust"
+        ],
+        "ogImage": "",
+        "canonicalUrl": "",
+        "noindex": true,
+        "structuredDataType": "Service",
+        "structuredData": null
+      },
+      "sections": [
+        "Header",
+        "AuthorityReputationPage",
+        "Footer"
+      ],
+      "inNavigation": false
+    }
+  ],
+  "navigation": {
+    "header": [
+      "home",
+      "platform",
+      "mapboost",
+      "pricing",
+      "results",
+      "contact"
+    ],
+    "footer": [
+      "home",
+      "platform",
+      "mapboost",
+      "pricing",
+      "results",
+      "contact"
+    ]
+  },
+  "sections": {
+    "Header": {
+      "file": "src/components/sections/Header.tsx",
+      "description": "Site-wide navigation header with logo, nav links, and CTA button",
+      "usedOn": [
+        "home",
+        "platform",
+        "mapboost",
+        "pricing",
+        "results",
+        "contact",
+        "strategy-consulting"
+      ]
+    },
+    "Footer": {
+      "file": "src/components/sections/Footer.tsx",
+      "description": "Site-wide footer with links, legal, and brand info",
+      "usedOn": [
+        "home",
+        "platform",
+        "mapboost",
+        "pricing",
+        "results",
+        "contact",
+        "strategy-consulting"
+      ]
+    },
+    "Hero": {
+      "file": "src/components/sections/Hero.tsx",
+      "description": "Home page hero with primary headline, subheadline, and dual CTAs",
+      "usedOn": [
+        "home"
+      ]
+    },
+    "HomePain": {
+      "file": "src/components/sections/HomePain.tsx",
+      "description": "Pain points section highlighting the cost of disconnected tools",
+      "usedOn": [
+        "home"
+      ]
+    },
+    "HomePlatform": {
+      "file": "src/components/sections/HomePlatform.tsx",
+      "description": "Platform overview showing unified capabilities on the home page",
+      "usedOn": [
+        "home"
+      ]
+    },
+    "HomeSocialProof": {
+      "file": "src/components/sections/HomeSocialProof.tsx",
+      "description": "Social proof with stats, logos, and testimonials for the home page",
+      "usedOn": [
+        "home"
+      ]
+    },
+    "HomeCTA": {
+      "file": "src/components/sections/HomeCTA.tsx",
+      "description": "Home page final CTA section driving strategy call bookings",
+      "usedOn": [
+        "home"
+      ]
+    },
+    "PlatformHero": {
+      "file": "src/components/sections/PlatformHero.tsx",
+      "description": "Platform page hero showcasing the unified growth stack",
+      "usedOn": [
+        "platform"
+      ]
+    },
+    "PlatformPain": {
+      "file": "src/components/sections/PlatformPain.tsx",
+      "description": "Platform pain points: fragmented tools, wasted spend, missed leads",
+      "usedOn": [
+        "platform"
+      ]
+    },
+    "PlatformOverview": {
+      "file": "src/components/sections/PlatformOverview.tsx",
+      "description": "Deep-dive platform module overview: SEO, reputation, CRM, automation",
+      "usedOn": [
+        "platform"
+      ]
+    },
+    "PlatformSocialProof": {
+      "file": "src/components/sections/PlatformSocialProof.tsx",
+      "description": "Platform page testimonials and key metrics",
+      "usedOn": [
+        "platform"
+      ]
+    },
+    "PlatformCTA": {
+      "file": "src/components/sections/PlatformCTA.tsx",
+      "description": "Platform page CTA driving demo bookings",
+      "usedOn": [
+        "platform"
+      ]
+    },
+    "MapBoostHero": {
+      "file": "src/components/sections/MapBoostHero.tsx",
+      "description": "MapBoost hero focused on Google Maps ranking results",
+      "usedOn": [
+        "mapboost"
+      ]
+    },
+    "MapBoostProblem": {
+      "file": "src/components/sections/MapBoostProblem.tsx",
+      "description": "MapBoost problem statement: invisible on Google Maps, losing to competitors",
+      "usedOn": [
+        "mapboost"
+      ]
+    },
+    "MapBoostPlatform": {
+      "file": "src/components/sections/MapBoostPlatform.tsx",
+      "description": "MapBoost feature walkthrough: citations, GBP optimization, rank tracking",
+      "usedOn": [
+        "mapboost"
+      ]
+    },
+    "MapBoostSocialProof": {
+      "file": "src/components/sections/MapBoostSocialProof.tsx",
+      "description": "MapBoost results: 89% top-3 rankings, customer stories",
+      "usedOn": [
+        "mapboost"
+      ]
+    },
+    "MapBoostCTA": {
+      "file": "src/components/sections/MapBoostCTA.tsx",
+      "description": "MapBoost CTA to start ranking on Google Maps",
+      "usedOn": [
+        "mapboost"
+      ]
+    },
+    "PricingHero": {
+      "file": "src/components/sections/PricingHero.tsx",
+      "description": "Pricing page hero with value framing and trust signals",
+      "usedOn": [
+        "pricing"
+      ]
+    },
+    "PricingPains": {
+      "file": "src/components/sections/PricingPains.tsx",
+      "description": "Pricing page pain points: tool sprawl cost vs. EnRoute consolidation",
+      "usedOn": [
+        "pricing"
+      ]
+    },
+    "PricingPlatformOverview": {
+      "file": "src/components/sections/PricingPlatformOverview.tsx",
+      "description": "What's included summary before pricing plans are shown",
+      "usedOn": [
+        "pricing"
+      ]
+    },
+    "PricingPlans": {
+      "file": "src/components/sections/PricingPlans.tsx",
+      "description": "Pricing tier cards with feature lists and CTAs",
+      "usedOn": [
+        "pricing"
+      ]
+    },
+    "PricingSocialProof": {
+      "file": "src/components/sections/PricingSocialProof.tsx",
+      "description": "Pricing page testimonials and ROI stats to reinforce purchase decision",
+      "usedOn": [
+        "pricing"
+      ]
+    },
+    "ResultsHero": {
+      "file": "src/components/sections/ResultsHero.tsx",
+      "description": "Results page hero with bold outcome stats",
+      "usedOn": [
+        "results"
+      ]
+    },
+    "ResultsPain": {
+      "file": "src/components/sections/ResultsPain.tsx",
+      "description": "Before/after framing of life without vs. with EnRoute",
+      "usedOn": [
+        "results"
+      ]
+    },
+    "ResultsPlatformGrid": {
+      "file": "src/components/sections/ResultsPlatformGrid.tsx",
+      "description": "Grid of platform capabilities with associated result metrics",
+      "usedOn": [
+        "results"
+      ]
+    },
+    "ResultsProof": {
+      "file": "src/components/sections/ResultsProof.tsx",
+      "description": "Case studies, customer quotes, and measurable outcomes",
+      "usedOn": [
+        "results"
+      ]
+    },
+    "ResultsCTA": {
+      "file": "src/components/sections/ResultsCTA.tsx",
+      "description": "Results page CTA driving strategy call bookings",
+      "usedOn": [
+        "results"
+      ]
+    },
+    "ContactHero": {
+      "file": "src/components/sections/ContactHero.tsx",
+      "description": "Contact page hero with headline and trust signals",
+      "usedOn": [
+        "contact"
+      ]
+    },
+    "ContactForm": {
+      "file": "src/components/sections/ContactForm.tsx",
+      "description": "Contact form with name, email, business type, and message fields",
+      "usedOn": [
+        "contact"
+      ]
+    },
+    "ContactSocialProof": {
+      "file": "src/components/sections/ContactSocialProof.tsx",
+      "description": "Contact page social proof: response time, client logos, quick stats",
+      "usedOn": [
+        "contact"
+      ]
+    },
+    "ContactCTA": {
+      "file": "src/components/sections/ContactCTA.tsx",
+      "description": "Contact page secondary CTA for strategy call booking",
+      "usedOn": [
+        "contact"
+      ]
+    },
+    "StrategyConsultingHero": {
+      "file": "src/components/sections/StrategyConsultingHero.tsx",
+      "description": "Strategy & Consulting hero with H1, subcopy, region tags, and dual CTAs",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    },
+    "StrategyConsultingSystem": {
+      "file": "src/components/sections/StrategyConsultingSystem.tsx",
+      "description": "EGP hierarchy visual flow: Core \u2192 ORCA \u2192 Practice Areas \u2192 DS Global \u2192 Hubs \u2192 Sites",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    },
+    "StrategyConsultingPracticeAreas": {
+      "file": "src/components/sections/StrategyConsultingPracticeAreas.tsx",
+      "description": "Two practice area cards: EGP AI Search Visibility and EGP Authority with bullets and CTAs",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    },
+    "StrategyConsultingOutcomes": {
+      "file": "src/components/sections/StrategyConsultingOutcomes.tsx",
+      "description": "Six outcome bullets covering discovery, trust, inquiries, conversion, visibility, and system connection",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    },
+    "StrategyConsultingEngagement": {
+      "file": "src/components/sections/StrategyConsultingEngagement.tsx",
+      "description": "Five-step engagement process: Assess, Connect, Deploy, Measure, Iterate",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    },
+    "StrategyConsultingFAQ": {
+      "file": "src/components/sections/StrategyConsultingFAQ.tsx",
+      "description": "Six-question FAQ accordion covering scope, timelines, access, reporting, multi-market, and system integration",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    },
+    "StrategyConsultingCTA": {
+      "file": "src/components/sections/StrategyConsultingCTA.tsx",
+      "description": "Closeout CTA section (id=contact) with bold headline, market tags, and dual CTAs linking to member-benefits and contact",
+      "usedOn": [
+        "strategy-consulting"
+      ]
+    }
+  },
+  "layout": {
+    "pageLayout": {
+      "file": "src/components/layout/PageLayout.tsx",
+      "description": "Wrapper component providing consistent page structure for non-home pages"
+    }
+  }
+}

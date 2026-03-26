@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="hsl(221,71%,22%)"/>
+      <stop offset="100%" stop-color="hsl(210,65%,28%)"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="hsl(174,88%,60%)"/>
+      <stop offset="100%" stop-color="hsl(183,85%,52%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="7" fill="url(#bg)"/>
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
+        font-family="Inter, system-ui, sans-serif" font-weight="800"
+        font-size="13" fill="url(#text)" letter-spacing="-0.5">EG</text>
+</svg>
