@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <base href="/egp-website/">
+    
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -27,24 +27,33 @@
 
     <!-- JSON-LD: WebSite structured data -->
     
-    <script type="module" crossorigin src="/egp-website/assets/main-c7B2iii_.js"></script>
-    <link rel="stylesheet" crossorigin href="/egp-website/assets/main-s74dJssH.css">
+    <script src="../_spa_fix.js"></script>    <script type="module" crossorigin src="../assets/main-c7B2iii_.js"></script>
+    <link rel="stylesheet" crossorigin href="../assets/main-s74dJssH.css">
   <!-- SEO Metadata -->
-    <title>Contact Us | EnRoute Growth Platform</title>
-    <meta name="description" content="Book a free strategy call or reach our McLean, VA team. EnRoute helps multi-location businesses turn visibility into revenue with one unified growth platform." />
-    <meta name="keywords" content="book a strategy call, contact EnRoute Growth Platform, multi-location business growth demo, local SEO platform McLean VA, marketing automation consultation" />
-    <link rel="canonical" href="https://enroutegrowthplatform.io/contact" />
-    <meta property="og:title" content="Contact Us | EnRoute Growth Platform" />
-    <meta property="og:description" content="Book a free strategy call or reach our McLean, VA team. EnRoute helps multi-location businesses turn visibility into revenue with one unified growth platform." />
+    <title>EnRoute Growth Platform | Turn Visibility Into Revenue</title>
+    <meta name="description" content="Stop losing revenue to disconnected marketing tools. EnRoute unifies local SEO, reputation, lead capture, CRM & automation for multi-location businesses. Book a free strategy call." />
+    <meta name="keywords" content="unified growth platform, local SEO for multi-location businesses, reputation management software, B2B lead capture automation, franchise marketing platform" />
+    <link rel="canonical" href="https://enroutegrowthplatform.io" />
+    <meta property="og:title" content="EnRoute Growth Platform | Turn Visibility Into Revenue" />
+    <meta property="og:description" content="Stop losing revenue to disconnected marketing tools. EnRoute unifies local SEO, reputation, lead capture, CRM & automation for multi-location businesses. Book a free strategy call." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://enroutegrowthplatform.io/contact" />
+    <meta property="og:url" content="https://enroutegrowthplatform.io" />
     <meta property="og:image" content="https://enroutegrowthplatform.io/og-default.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Contact Us | EnRoute Growth Platform" />
-    <meta name="twitter:description" content="Book a free strategy call or reach our McLean, VA team. EnRoute helps multi-location businesses turn visibility into revenue with one unified growth platform." />
+    <meta name="twitter:title" content="EnRoute Growth Platform | Turn Visibility Into Revenue" />
+    <meta name="twitter:description" content="Stop losing revenue to disconnected marketing tools. EnRoute unifies local SEO, reputation, lead capture, CRM & automation for multi-location businesses. Book a free strategy call." />
     <meta name="twitter:image" content="https://enroutegrowthplatform.io/og-default.png" />
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ContactPage","name":"Contact Us | EnRoute Growth Platform","url":"https://enroutegrowthplatform.io/contact"}</script>
-  </head>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"EnRoute Growth Platform","url":"https://enroutegrowthplatform.io"}</script>
+    <script>
+      (function(l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search.slice(1).split("&").map(function(s) {
+            return s.replace(/~and~/g, "&")
+          }).join("?");
+          window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
+        }
+      }(window.location))
+    </script>  </head>
 
   <body>
     <!-- Root element for React app -->
