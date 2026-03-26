@@ -1,33 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://enroutegrowthplatform.io</loc>
-    <priority>1.0</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://enroutegrowthplatform.io/platform</loc>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://enroutegrowthplatform.io/mapboost</loc>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://enroutegrowthplatform.io/pricing</loc>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://enroutegrowthplatform.io/results</loc>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://enroutegrowthplatform.io/contact</loc>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+  <url><loc>https://enroute-growth-platform.github.io/egp-website/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
 </urlset>
